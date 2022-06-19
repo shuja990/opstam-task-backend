@@ -1,0 +1,3 @@
+# Ropstam Task
+
+This is the backend part of the task. There are 4 route folders which involves user authentication, CRUD operations for categories, CRUD operations for Car and uploading of pictures. JWT is implemented for user authentication and bycrypt for encryption and decryption of passwords. MongoDB is used as the database. Images are stored in a folder in the route directory. API access specifiers and details are commented above the respective controller.
